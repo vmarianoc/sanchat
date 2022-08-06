@@ -8,13 +8,13 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/riservato-xyz/whaticket-installer.git
+git clone https://github.com/vitormarianoc/sanchat.git
 ```
 
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./whaticket-installer/whaticket
+sudo chmod +x ./sanchat/whaticket
 ```
 
 ### usage
